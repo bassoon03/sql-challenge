@@ -1,0 +1,3 @@
+This repository contains the SQL code for creating the necessary tables and for performing the required queries. The csv files were all imported into their respective tables, but I'm not sure how you're going to be
+able to see that with just the SQL code. I'm not aware of any code that was borrowed from elsewhere. I could be wrong, but I don't think so. The diagram is what I'm most worried about. I think I got most of the
+key relationships correct, but I couldn't quite figure out how I should connect the salaries table to the rest of the database. I just made my best guess. All the required files should be here.
